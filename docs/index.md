@@ -1,89 +1,73 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Riley Dixon's Resume
 ---
-# Brigham Young
-The second prophet of The Church of J
+# Riley Dixon
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="rileydixon6@gmail.com">rileydixon6@gmail.com</a>
+| <a href="https://github.com/rileydixon6">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Expected 2021`
+__Brigham Young University-Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- 3.9 Major GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+## Skills
+- Proficient in Microsoft Excel and programming languages such as Python, SQL, JavaScript, Clojure, HTML, and R
+- Gained valuable experience in machine learning
+- Fluent in Spanish and Portuguese and developed the ability to translate
+- Received an associate’s license in 3D CAD software
 
 
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
+## Work Experience
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`August 2020 – Present`
+__West River Bird Preserve__, Manager
+
+- Managed over 1,000 birds for a nearby hunting range
+- Collaborated personally with the company owner to ensure that his vision for the preserve is realized 
+
+
+`April 2019 – August 2020`
+__Marriott__, MAINTENANCE WORKER/SUPERVISOR
+
+- Restructured maintenance department through goal setting and personally training other employees
+- Gained valuable experience in scheduling, inventory, and other administrative responsibilities
+- Improved customer satisfaction in my team and the hotel by quickly addressing and resolving guest concerns
+
+								        
+`December 2017 – January 2018`
+__Blokaloks__, TECHNICIAN
+
+- Solved problems and applied critical thinking strategies to keep shop in order and production rate high
+- Operated machinery and 3D programs to manufacture products
+
+
+## Other
+
+####'Breadcrumbs', personal project
+- An app similar to ‘onX Hunt’ designed to provide hikers with a better sense of direction
+- Allows the user to choose a starting location and will display their current location on their hike in regard to the starting location
+
+
+`2015-2017`
+__Service Missionary__, Brazil
+- Lead over 100 other missionaries
+- Emphasized the importance setting goals and making plans to accomplish them
+
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2020 -->
 
 
