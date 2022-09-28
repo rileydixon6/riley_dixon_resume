@@ -23,7 +23,7 @@ environments using Python and Node.js.
 `2021`
 __Brigham Young University-Idaho__, Rexburg, ID
 
-- 3.5 Major GPA
+- 3.5 GPA
 
 
 ## Professional Experience
