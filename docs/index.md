@@ -47,11 +47,11 @@ __Machine Learning__
 
 ## Skills
 
-Languages: Python, Node.js, SQL, JavaScript, Kotlin, R, C++, HTML, Java
+__Languages__: Python, Node.js, SQL, JavaScript, Kotlin, R, C++, HTML, Java
 
-Software: MongoDB, AWS, Git, Solidworks
+__Software__: MongoDB, AWS, Git, Solidworks
 
-Enviroments: Linux, OS, Windows
+__Enviroments__: Linux, OS, Windows
 
 
 
